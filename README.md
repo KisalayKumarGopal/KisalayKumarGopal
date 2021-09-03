@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning <strong> Web Development </strong>
 
- 📫 How to reach me: <a href-"https://www.linkedin.com/in/kisalaykumargopal/" target-"_blank">Kisalay Kumar Gopal</a>
+ 📫 How to reach me: <a href-"https://www.linkedin.com/in/kisalaykumargopal/" target-"blank">Kisalay Kumar Gopal</a>
  
  ⚡ Fun fact: Life Long Student
  
